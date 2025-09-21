@@ -27,11 +27,11 @@ This is a **backend application** for a voting system where users can sign up, l
 ## 🏗️ Architecture  
 
 
-```
+
 
 ![Architecture Diagram](./app_design/architecture.png)
 
-````
+
 
 ---
 
