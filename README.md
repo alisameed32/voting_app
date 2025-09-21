@@ -144,7 +144,7 @@ voting_app/
 
 ## 🧑‍💻 Author
 
-👤 **Ali Sameed Arbani**
+👤 **Ali Sameed**
 
 * 🌐 GitHub: [Ali Sameed](https://github.com/alisameed32)
 
